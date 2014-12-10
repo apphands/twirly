@@ -1,7 +1,10 @@
 twirly
 ======
 
-Neat little motion-enabled iOS effect to UIImageView
+Adds a neat little motion-enabled iOS effect to UIImageView.
+
+UITwirlView subclasses UIImageView to add a new method named enableMotionEffects:rotate:
+
 
 Public domain. Use as you wish.
 
